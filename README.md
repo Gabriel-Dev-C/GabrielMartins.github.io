@@ -1,1 +1,1 @@
-<h1>SITE PESSOAL</h1>
+<h1 text-align="center">SITE PESSOAL</h1>
